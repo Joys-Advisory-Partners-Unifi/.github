@@ -127,7 +127,7 @@ We welcome contributions from the community. Please see individual project READM
 
 **Joys Advisory Partners**
 
-For inquiries regarding this project suite or consulting services, please reach out through the GitHub repository.
+For inquiries regarding this project suite or consulting services, please reach out to Roger.Joys@JoysAdvisoryPartners.com or through the GitHub repository.
 
 ---
 
