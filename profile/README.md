@@ -30,15 +30,15 @@ The UniFi ecosystem offers powerful network management capabilities, but accessi
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [JSONUtils](./JSONUtils) | JSON parsing and navigation utilities | Java |
-| [UnifiUtils](./UnifiUtils) | Low-level UniFi Controller API wrapper (129 endpoints) | Java |
-| [UniFiHomeKit](./UniFiHomeKit) | High-level, device-centric API for smart home integration | Java |
+| [JSONUtils](https://github.com/Joys-Advisory-Partners-Unifi/JSONUtils) | JSON parsing and navigation utilities | Java |
+| [UnifiUtils](https://github.com/Joys-Advisory-Partners-Unifi/UnifiUtils) | Low-level UniFi Controller API wrapper (129 endpoints) | Java |
+| [UniFiHomeKit](https://github.com/Joys-Advisory-Partners-Unifi/UnifiHomeKit) | High-level, device-centric API for smart home integration | Java |
 
 ### Applications
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [homebridge-unifi-network](./homebridge-unifi-network) | Homebridge plugin for Apple HomeKit integration | TypeScript |
+| [homebridge-unifi-network](https://github.com/Joys-Advisory-Partners-Unifi/homebridge-unifi-network) | Homebridge plugin for Apple HomeKit integration | TypeScript |
 
 ---
 
